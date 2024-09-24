@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wasimatta1&label=Profile%20views&color=0e75b6&style=flat" alt="wasimatta1" /> </p>
 
-- 🌱 I’m currently learning **Spring Boot**
+- 🌱 I’m currently learning **Asp.Net**
 
-- 💬 Ask me about **Android, Spring Boot ,Data Structure**
+- 💬 Ask me about **Android, Spring Boot ,Data Structure,Asp.Net**
 
 - 📫 How to reach me **wasim.atta33@hotmail.com**
 
